@@ -2,6 +2,7 @@
 
 A high-performance full-stack solution for smart city transit optimization. Uses a simulated LSTM for demand forecasting and Linear Programming (OR-Tools) for fleet rebalancing.
 
+
 ## Features
 - **AI Demand Prediction**: Predicts occupancy based on historical patterns, weather, and events.
 - **Dispatch Optimization**: Suggests deadheading, short-turning, or headway adjustments to minimize overcrowding.
